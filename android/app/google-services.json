@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82333462214",
+    "firebase_url": "https://authpractice-61ae0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "authpractice-61ae0",
+    "storage_bucket": "authpractice-61ae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82333462214:android:695fad771ec49199e3b1c7",
+        "android_client_info": {
+          "package_name": "com.example.auth_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82333462214-4qso9g662fl88fcp8cuhuus7iju5t8so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-i4qU46iFocctpcPswRNeQwHU1OKOImo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82333462214-4qso9g662fl88fcp8cuhuus7iju5t8so.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82333462214-09re1pq8d03jdbcti4ms8jkqcensrrvc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authPractice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
