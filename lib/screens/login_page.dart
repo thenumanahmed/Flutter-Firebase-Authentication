@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 
 import '../components/my_button.dart';
 import '../components/my_textfield.dart';
+import '../services/auth_services.dart';
 
 class LoginPage extends StatefulWidget {
   final Function()? onTap;
@@ -170,7 +171,7 @@ class _LoginPageState extends State<LoginPage> {
                   children: [
                     SquareTile(
                       imagePath: 'assets/images/google.png',
-                      onTap: () {},
+                      onTap: () => AuthService().signInWithGoogle(),
                     ),
                   ],
                 ),
